@@ -1,0 +1,21 @@
+{
+  "name": "She",
+  "email": "hello@cypress.io",
+  "gender": "Female",
+  "password": "testing@123",
+  "mobileName":["iphone X", "Blackberry", "Samsung Note 8", "Nokia Edge"],
+  "country": "India",
+  "OrderSuccessMsg": " Thank you! Your order will be delivered in next few weeks :-).",
+  "formSubmitSuccessMsg": "The Form has been submitted successfully!.",
+
+ 
+  "in_gmail" : "sakthikamalesh67@gmail.com",
+  "in_password": "Kamal@2223",
+  "searchText": "wissen technology",
+  "filterText": "open to work, india{enter}",
+  "filterText2": "open to work, SDET{enter}"
+
+
+
+
+}
